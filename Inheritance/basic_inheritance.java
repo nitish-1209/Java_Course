@@ -40,7 +40,7 @@ public class basic_inheritance {
         c1.len=3;
         c1.wid=4;
         System.out.println(c1.volume());
-        System.out.println(c1.area());
+        System.out.println(c1.area());//area of Rectangle will be displayed
 
 
     }
